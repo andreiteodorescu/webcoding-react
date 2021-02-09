@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,800');
+@import url('https://fonts.googleapis.com/css?family=Black+Ops+One');
+
+@import "~bootstrap/scss/functions";
+@import "~bootstrap/scss/variables";
+@import "~bootstrap/scss/mixins";
+@import "~bootstrap/scss/reboot";
+@import "~bootstrap/scss/type";
+@import "~bootstrap/scss/images";
+@import "~bootstrap/scss/grid";
+@import "~bootstrap/scss/print";
+@import "~bootstrap/scss/utilities";
+
+// My custom files
+@import "assets/scss/variables.scss";
+@import "assets/scss/scaffoldindg.scss";
+@import "assets/scss/global.scss";
